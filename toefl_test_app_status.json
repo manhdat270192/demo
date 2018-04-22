@@ -1,5 +1,5 @@
 {
 	"app_name": "toefl_test",
-	"app_state": "normal",
-	"app_new": ""
+	"app_state": "suspended",
+	"app_new": "com.edustudio.english.englishgrammartest"
 }
